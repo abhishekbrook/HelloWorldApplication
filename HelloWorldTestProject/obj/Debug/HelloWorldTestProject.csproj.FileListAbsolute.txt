@@ -1,0 +1,15 @@
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/HelloWorldTestProject.dll
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/HelloWorldTestProject.pdb
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/nunit.framework.dll
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/nunit.framework.xml
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/obj/Debug/HelloWorldTestProject.csprojResolveAssemblyReference.cache
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/obj/Debug/HelloWorldTestProject.csproj.CoreCompileInputs.cache
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/obj/Debug/HelloWorldTestProject.dll
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/obj/Debug/HelloWorldTestProject.pdb
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/HelloWorldClassLibrary.dll
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/HelloWorldClassLibrary.pdb
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/Microsoft.Practices.Unity.dll
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/Microsoft.Practices.Unity.xml
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/abhishekagrawal/Projects/HelloWorldClassLibrary/HelloWorldTestProject/bin/Debug/Microsoft.Practices.ServiceLocation.xml

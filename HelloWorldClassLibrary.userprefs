@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C1AB30DD-8681-4D1E-B92E-394D394EB0B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShellConsole/Program.cs">
+    <Files>
+      <File FileName="HelloWorldClassLibrary/Services/FileDataService.cs" Line="65" Column="17" />
+      <File FileName="ShellConsole/Program.cs" Line="3" Column="60" />
+      <File FileName="HelloWorldClassLibrary/Services/IDataService.cs" Line="8" Column="79" />
+      <File FileName="../HelloWorldMVCWebAPI/ConsoleShell/bin/Debug/:Users:abhishekagrawal:Projects:HelloWorldClassLibrary:HelloWorldClassLibrary:AppConfig.config" Line="5" Column="1" />
+      <File FileName="ShellConsole/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldClassLibrary/DataModels/IDataModel.cs" Line="9" Column="5" />
+      <File FileName="HelloWorldClassLibrary/DataModels/FileDataModel.cs" Line="22" Column="9" />
+      <File FileName="HelloWorldTestProject/Test.cs" Line="25" Column="50" />
+      <File FileName="ShellConsole/app.config" Line="4" Column="54" />
+      <File FileName="HelloWorldClassLibrary/Services/LoggingService.cs" Line="28" Column="152" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorldClassLibrary" expanded="True">
+            <Node name="ShellConsole" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShellConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
